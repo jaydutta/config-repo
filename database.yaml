@@ -1,0 +1,3 @@
+database:
+  username: "{cipher}encrypted-username" # Replace with encrypted username
+  password: "{cipher}encrypted-password" # Replace with encrypted password
