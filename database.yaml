@@ -1,4 +1,4 @@
 database:
-  username: "{cipher}605b6493358863eb:e405f3c7b1cdf7e5371e572cade646c3644fb51175f729bc82718bb894f759545917a3a549" # Replace with encrypted username
-  password: "{cipher}faac29c55670613a:e78f07e98fffe494cc6586910f2eb7b78126a2679f54567b6e3471aec2074c327cb164e9face6c9b" # Replace with encrypted password
-  key: "VxCV3+lsx6/JCu9ELsYeuIZHT3zgshEbV02L7B8fnQU="
+  username: "{cipher}" # Replace with encrypted username
+  password: "{cipher}" # Replace with encrypted password
+  key: ""
